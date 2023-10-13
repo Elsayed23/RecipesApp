@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <>
             <Helmet title='Recipes' />
-            <main className='py-24 px-4'>
+            <main className='py-24 px-4 '>
                 <Recipes />
             </main>
             <Footer />
