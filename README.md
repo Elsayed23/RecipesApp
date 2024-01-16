@@ -22,7 +22,7 @@ Welcome to the Recipe App, your go-to source for exploring and trying out a vari
    - Use the search bar to find recipes based on your preferences and cravings.
 
 2. **Explore Instructions:**
-   - Click on a recipe to view detailed instructions. Follow each step to create a delicious dish.
+   - Click on a (Get Recipe) button to view detailed instructions. Follow each step to create a delicious dish.
 
 3. **Watch YouTube Explanations:**
    - Access the YouTube link provided for each recipe to watch video explanations and gain additional insights.
