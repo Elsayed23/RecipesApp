@@ -1,4 +1,4 @@
-# Recipe App
+# Recipes App
 
 Welcome to the Recipe App, your go-to source for exploring and trying out a variety of delicious recipes! Whether you're a seasoned chef or just getting started in the kitchen, this app is designed to inspire and guide you through the culinary world.
 
